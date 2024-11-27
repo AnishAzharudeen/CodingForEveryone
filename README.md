@@ -41,6 +41,11 @@ Balsamiq wirefirames:
 
 
 
+Performance Scores:
+
+*** Score genrated by Lighthouse ***
+
+![lighhosuescore-Home](assets/images/Lighthousescore-Homepage.jpg)
 
 Credits: 
 
