@@ -2,7 +2,12 @@
 
 This Website is developed for Training institute.
 Their goal is to offer various skill development training.
-The website have pages dedicated for Home,About,training,skillbootcamp and diversity.
+The website have pages dedicated for 
+1. Home,
+2. About,
+3. Training,
+4. Skillbootcamp and 
+5. Diversity.
 Training page has inforamtion about various training offered by the institue.
 Skiillbootcamp page provide information about goverment funded shour course training.
 Diversity page has infomation about workplace ethics, diversity and inclusion and some moral videos.
