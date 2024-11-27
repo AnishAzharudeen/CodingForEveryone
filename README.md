@@ -8,10 +8,12 @@ The website have pages dedicated for
 3. Training,
 4. Skillbootcamp and 
 5. Diversity.
-Training page has inforamtion about various training offered by the institue.
-Skiillbootcamp page provide information about goverment funded shour course training.
-Diversity page has infomation about workplace ethics, diversity and inclusion and some moral videos.
-Contact form is designed in simple way to enroll and enuire.
+
+
+1. Training page has inforamtion about various training offered by the institue.
+2. Skillbootcamp page provide information about goverment funded shour course training.
+3. Diversity page has infomation about workplace ethics, diversity and inclusion and some moral videos.
+4. Contact form is designed in simple way to enroll and enuire.
 
 In the following section i have added wireframe model developed at the early stage of project.
 Please find the manual testing results and code validation result from HTML and Css pass w3C and jigsaw validators.
