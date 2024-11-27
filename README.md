@@ -29,10 +29,13 @@ Please find the manual testing results and code validation result from HTML and 
 # IDE            : Visual Studio code
 
 #  Pre development ideas:
-##  Balsamiq wirefirames:
 
 # This project is developed in Agile methodology
 Project Board : [CodeForEveryone](https://github.com/users/AnishAzharudeen/projects/6)
+
+##  Balsamiq wirefirames:
+
+
 
 ![Balsamiqwire](assets/images/Balsamicdesign.pdf)
 
