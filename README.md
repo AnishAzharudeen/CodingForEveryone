@@ -1,7 +1,16 @@
 # CodingForEveryone
 
 This Website is developed for Training institute.
-Their goal is to offer various skill development training
+Their goal is to offer various skill development training.
+The website have pages dedicated for Home,About,training,skillbootcamp and diversity.
+Training page has inforamtion about various training offered by the institue.
+Skiillbootcamp page provide information about goverment funded shour course training.
+Diversity page has infomation about workplace ethics, diversity and inclusion and some moral videos.
+Contact form is designed in simple way to enroll and enuire.
+
+In the following section i have added wireframe model developed at the early stage of project.
+Please find the manual testing results and code validation result from HTML and Css pass w3C and jigsaw validators.
+
 
 #  Tech Stack:
    1. Html
@@ -25,6 +34,7 @@ Their goal is to offer various skill development training
   
    
          Validation:
+
          Website is tested and all the pages are vaildated using HTML validator
 
          Manual Testing Result:
