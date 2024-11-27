@@ -19,12 +19,15 @@ Their goal is to offer various skill development training
 
 
 
+
+
+
   
    
-      #   Validation:
-      ##  Website is tested and all the pages are vaildated using HTML validator
+         Validation:
+         Website is tested and all the pages are vaildated using HTML validator
 
-      ###   Manual Testing Result:
+         Manual Testing Result:
 
 
 
