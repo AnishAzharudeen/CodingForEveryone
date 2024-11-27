@@ -47,6 +47,9 @@ Performance Scores:
 
 ![lighhosuescore-Home](assets/images/Lighthousescore-Homepage.jpg)
 ![Lighthousescore-Explore](assets/images/Lighthousescore-Explorediversity.jpg)
+![Lighhousescore-Training](assets/images/Lighthousescore-TrainingPage.jpg)
+![Lighthousescore-Skillbootcamp](assets/images/Lighthousescore-SkillBootcamp.jpg)
+
 
 Credits: 
 
