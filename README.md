@@ -43,7 +43,7 @@ Their goal is to offer various skill development training
 
 #  Performance Scores:
 
-##  *** Score genrated by Lighthouse ***
+##   Score genrated by Lighthouse 
 
 ![lighhosuescore-Home](assets/images/Lighthousescore-Homepage.jpg)
 ![Lighthousescore-Explore](assets/images/Lighthousescore-Explorediversity.jpg)
