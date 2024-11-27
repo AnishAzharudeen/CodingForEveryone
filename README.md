@@ -1,13 +1,13 @@
 # CodingForEveryone
 
-This Website is developed for Training institute
+This Website is developed for Training institute.
 Their goal is to offer various skill development training
 
 Tech Stack:
-    Html
-    Css
-    Bootstrap v 5.3
-    Javascript
+   1. Html
+   2. Css 
+   3. Bootstrap v 5.3
+   4. Javascript
 
 
 Pre development ideas:
