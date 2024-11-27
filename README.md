@@ -20,14 +20,19 @@ Please find the manual testing results and code validation result from HTML and 
 
 
 #  Tech Stack:
-   1. Html
-   2. Css 
+   1. Html 5
+   2. CSS 3
    3. Bootstrap v 5.3
    4. Javascript
 
+# Version Control: Git
+# IDE            : Visual Studio code
 
 #  Pre development ideas:
 ##  Balsamiq wirefirames:
+
+# This project is developed in Agile methodology
+Project Board : [CodeForEveryone](https://github.com/users/AnishAzharudeen/projects/6)
 
 ![Balsamiqwire](assets/images/Balsamicdesign.pdf)
 
@@ -95,7 +100,26 @@ Please find the manual testing results and code validation result from HTML and 
 
 ***Section provides information about the supporting documents***
 
+This project was made possible with the support of the following resources and tools:
+
 ## Image credits:
+
+1.  She Can code website.
+2.  United kingdom skill boot camp training
+3.  Wikipedia
+4.  Google photo dumps
+5.  Bootstrap
+
+
+## video credits:
+
+1. Youtube
+
+2. Google
+
+3.  Bootstrap
+
+4. 
 
 
 
@@ -104,3 +128,11 @@ Please find the manual testing results and code validation result from HTML and 
 1. Shecancode
 
 2. Skill bootcamps for united kingdom
+
+3. Wikipedia
+
+4. ChatGPT
+
+5. Copilot 
+
+6. Bootstrap
