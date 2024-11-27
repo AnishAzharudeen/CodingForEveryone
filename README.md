@@ -13,11 +13,21 @@ Their goal is to offer various skill development training
 #  Pre development ideas:
 ##  Balsamiq wirefirames:
 
-![Balsamiqwire] (https://drive.google.com/drive/folders/12sPESYVKEZgD_y9QGVxeIgSLoWalNo-4?usp=drive_link)
+![Balsamiqwire](https://drive.google.com/drive/folders/12sPESYVKEZgD_y9QGVxeIgSLoWalNo-4?usp=drive_link)
+
+
+
+
+
+  
    
-   
-    Validation:
-    Website is tested and all the pages are vaildated using HTML validator
+      #   Validation:
+      ##  Website is tested and all the pages are vaildated using HTML validator
+
+      ###   Manual Testing Result:
+
+
+
 
    | Feature                              | TestcaseName                                                      | TestcaseSteps                                                                        | TestcaseExpectation                                                                                                            | Priority | Result |
 | ------------------------------------ | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | -------- | ------ |
@@ -39,7 +49,17 @@ Their goal is to offer various skill development training
 | Verify CSS file                      | Check CSS file                                                    | Evaluate css file using css file validator                                           | Css file must pass with zero errors                                                                                            | P0       | PASS   |
 
 
+### Html and Css Checker  results
 
+![Html result for Home page](assets/images/ValidationResult-HomePage.jpg)
+![Html resut for About page](assets/images/ValidationResult-AboutPage.jpg)
+![Html result for Training page](assets/images/ValidationResult-TrainingPage.jpg)
+![Html result for SkillBootcamp page](assets/images/ValidationResult-SkillBootcampPage.jpg)
+![Html result for Diversity page](assets/images/ValidationResult-AgePage.jpg)
+
+#### css result
+
+![Css result](assets/images/CSSvalidationresult.jpg)
 
 #  Performance Scores:
 
