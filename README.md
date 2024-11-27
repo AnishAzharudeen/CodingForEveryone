@@ -19,7 +19,7 @@ Balsamiq wirefirames:
     Validation:
     Website is tested and all the pages are vaildated using HTML validator
 
-    | Feature                              | TestcaseName                                                      | TestcaseSteps                                                                        | TestcaseExpectation                                                                                                            | Priority | Result |
+   | Feature                              | TestcaseName                                                      | TestcaseSteps                                                                        | TestcaseExpectation                                                                                                            | Priority | Result |
 | ------------------------------------ | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | -------- | ------ |
 | Verify Home page                     | Verify if the page is responsive                                  | Verify if the page is responsive                                                     | Check the website in various device like mobile,desktop,ipad                                                                   | P0       | PASS   |
 | Verify Home page                     | Check if the hero image uploaded is as expected                   | Check if the hero image uploaded is as expected                                      | Hero image must be as expected and the behaviour is consistent across all the device.                                          | P0       | Pass   |
@@ -37,7 +37,6 @@ Balsamiq wirefirames:
 | Verify Diversity-Neurodiversity Page | Repeate the testcase from 1 to 6 in Neurodiversity page           | Repeate the testcase from 1 to 6 in Neurodiversity page                              | User should not be able to add their Existing Wallet using wrong secrete<br>Phase .<br>Proper error message must be displayed. | P1       | PASS   |
 | Verify Contact us form               | Enter details to fill in Contact Form                             | Enter all the valuse and click the subit button                                      | Form should be submitted successfully                                                                                          | P1       | PASS   |
 | Verify CSS file                      | Check CSS file                                                    | Evaluate css file using css file validator                                           | Css file must pass with zero errors                                                                                            | P0       | PASS   |
-
 Credits: 
 
 ***Section provides information about the supporting documents***
