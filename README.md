@@ -3,15 +3,15 @@
 This Website is developed for Training institute.
 Their goal is to offer various skill development training
 
-#Tech Stack:
+#  Tech Stack:
    1. Html
    2. Css 
    3. Bootstrap v 5.3
    4. Javascript
 
 
-Pre development ideas:
-Balsamiq wirefirames:
+#  Pre development ideas:
+##  Balsamiq wirefirames:
 
 ![Balsamiqwire] (https://drive.google.com/drive/folders/12sPESYVKEZgD_y9QGVxeIgSLoWalNo-4?usp=drive_link)
    
