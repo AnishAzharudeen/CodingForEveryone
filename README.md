@@ -46,6 +46,7 @@ Performance Scores:
 *** Score genrated by Lighthouse ***
 
 ![lighhosuescore-Home](assets/images/Lighthousescore-Homepage.jpg)
+![Lighthousescore-Explore](assets/images/Lighthousescore-Explorediversity.jpg)
 
 Credits: 
 
