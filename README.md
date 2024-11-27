@@ -13,7 +13,7 @@ Tech Stack:
 Pre development ideas:
 Balsamiq wirefirames:
 
-![Balsamiqwire] (https://drive.google.com/file/d/1Z0w54aVar-ai803Tq-Rt7OHu6fVQIl8a/view?usp=drive_link)
+![Balsamiqwire] (https://drive.google.com/drive/folders/12sPESYVKEZgD_y9QGVxeIgSLoWalNo-4?usp=drive_link)
    
    
     Validation:
