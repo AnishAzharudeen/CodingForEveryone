@@ -37,6 +37,11 @@ Balsamiq wirefirames:
 | Verify Diversity-Neurodiversity Page | Repeate the testcase from 1 to 6 in Neurodiversity page           | Repeate the testcase from 1 to 6 in Neurodiversity page                              | User should not be able to add their Existing Wallet using wrong secrete<br>Phase .<br>Proper error message must be displayed. | P1       | PASS   |
 | Verify Contact us form               | Enter details to fill in Contact Form                             | Enter all the valuse and click the subit button                                      | Form should be submitted successfully                                                                                          | P1       | PASS   |
 | Verify CSS file                      | Check CSS file                                                    | Evaluate css file using css file validator                                           | Css file must pass with zero errors                                                                                            | P0       | PASS   |
+
+
+
+
+
 Credits: 
 
 ***Section provides information about the supporting documents***
