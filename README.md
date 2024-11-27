@@ -3,7 +3,7 @@
 This Website is developed for Training institute.
 Their goal is to offer various skill development training
 
-Tech Stack:
+#Tech Stack:
    1. Html
    2. Css 
    3. Bootstrap v 5.3
