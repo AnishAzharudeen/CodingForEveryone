@@ -12,7 +12,10 @@ Tech Stack:
 
 Pre development ideas:
 Balsamiq wirefirames:
-![Balsamicwire](https://drive.google.com/drive/u/0/folders/12sPESYVKEZgD_y9QGVxeIgSLoWalNo-4)
+
+![Balsamiqwire] (https://drive.google.com/file/d/1Z0w54aVar-ai803Tq-Rt7OHu6fVQIl8a/view?usp=drive_link)
+   
+   
     Validation:
     Website is tested and all the pages are vaildated using HTML validator
 
