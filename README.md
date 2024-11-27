@@ -13,7 +13,7 @@ Their goal is to offer various skill development training
 #  Pre development ideas:
 ##  Balsamiq wirefirames:
 
-![Balsamiqwire](https://drive.google.com/drive/folders/12sPESYVKEZgD_y9QGVxeIgSLoWalNo-4?usp=drive_link)
+![Balsamiqwire](assets/images/Balsamicdesign.pdf)
 
 
 
