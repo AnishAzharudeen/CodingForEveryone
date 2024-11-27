@@ -41,9 +41,9 @@ Their goal is to offer various skill development training
 
 
 
-Performance Scores:
+#  Performance Scores:
 
-*** Score genrated by Lighthouse ***
+##  *** Score genrated by Lighthouse ***
 
 ![lighhosuescore-Home](assets/images/Lighthousescore-Homepage.jpg)
 ![Lighthousescore-Explore](assets/images/Lighthousescore-Explorediversity.jpg)
@@ -51,16 +51,16 @@ Performance Scores:
 ![Lighthousescore-Skillbootcamp](assets/images/Lighthousescore-SkillBootcamp.jpg)
 
 
-Credits: 
+#  Credits: 
 
 ***Section provides information about the supporting documents***
 
-Image credits:
+## Image credits:
 
 
 
-Content Credits:
+## Content Credits:
 
-Shecancode
+1. Shecancode
 
-Skill bootcamps for united kingdom
+2. Skill bootcamps for united kingdom
